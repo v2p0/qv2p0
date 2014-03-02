@@ -1,0 +1,2 @@
+module MainLayoutHelper
+end
